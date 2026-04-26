@@ -133,7 +133,7 @@ Tested model with:
 
 ## 🎥 Video Explanation
 
-👉 (Add your YouTube link here)
+👉 https://youtu.be/DPm2WI17IHw
 
 ---
 
